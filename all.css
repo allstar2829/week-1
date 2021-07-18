@@ -1,0 +1,130 @@
+body {
+  color: #000;
+  background-color: #fff;
+  margin-top: 1.5rem;
+}
+.main-font {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+.english-font {
+  font-family: 'Roboto', sans-serif;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.container h1 {
+  border-bottom: 2px solid black;
+  line-height: 106px;
+}
+.title {
+  font-size: 80px;
+  color: black;
+}
+.profile-photo {
+  width: 324px;
+  height: 324px;
+  display: block;
+}
+.info-title {
+  font-size: 2rem;
+  color: black;
+  line-height: 43px;
+}
+.info-subtitle {
+  font-size: 1.5rem;
+  color: #a00404;
+  text-transform: uppercase;
+  line-height: 2rem;
+}
+.dec-line {
+  display: block;
+  width: 100%;
+  height: 1px;
+  color: gray;
+}
+.content-text {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+.skill-block {
+  width: 100%;
+  background-color: #415165;
+  padding: 2rem 0px;
+}
+.text-center {
+  text-align: center;
+}
+.text-white {
+  color: #fff;
+}
+.bg-gray {
+  background-color: lightgray;
+}
+.skill-box {
+  font-weight: 300;
+  border-left: 1px solid white;
+  width: 200px;
+  margin: 0 auto;
+  padding-left: 25px;
+  text-align: left;
+  line-height: 36px;
+}
+.skill-box li{
+  margin-bottom: 1rem;
+}
+.work-box {
+  width: 1100px;
+  margin: 0 auto;
+  padding-left: 15px;
+  border-left: 1px solid lightgray;
+}
+.work-box li > img{
+  margin-top: 8px;
+}
+.work-box li{
+  margin-bottom: 1.5rem;
+}
+.work-info{
+    font-size: 20px;
+    line-height: 30px;
+    width: 642px;
+}
+.contact-info{
+  line-height: 36px;
+  font-size: 24px;
+  font-weight: light;
+}
+.contact-info li{
+  margin-bottom: 1rem;
+}
+.social-media{
+  display: flex;
+  justify-content: center;
+}
+.social-media>li>img:nth-child(even){
+  margin: 0 24px;
+}
+/* 通用類別 */
+.mb-1 {
+  margin-bottom: 0.5rem;
+}
+.mb-2 {
+  margin-bottom: 1rem;
+}
+.mb-3 {
+  margin-bottom: 1.5rem;
+}
+.mb-4 {
+  margin-bottom: 2rem;
+}
+.mb-5 {
+  margin-bottom: 2.5rem;
+}
+.mb-6 {
+  margin-bottom: 3rem;
+}
+.mb-9 {
+  margin-bottom: 4.5rem;
+}
+
