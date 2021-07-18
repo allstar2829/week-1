@@ -100,10 +100,9 @@ body {
 }
 .social-media{
   display: flex;
-  justify-content: center;
-}
-.social-media>li>img{
-  margin-left: 24px;
+  justify-content: space-evenly;
+  width: 250px;
+  margin: 0 auto;
 }
 /* 通用類別 */
 .mb-1 {
