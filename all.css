@@ -102,8 +102,8 @@ body {
   display: flex;
   justify-content: center;
 }
-.social-media>li>img:nth-child(even){
-  margin: 0 24px;
+.social-media img{
+  margin-left: 24px;
 }
 /* 通用類別 */
 .mb-1 {
